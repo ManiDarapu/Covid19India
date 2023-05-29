@@ -1,0 +1,3 @@
+GET http://localhost:3001/states/3/stats/
+###
+PUT http://localhost:3001/districts/322/
